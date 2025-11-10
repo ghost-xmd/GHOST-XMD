@@ -254,8 +254,8 @@ async function startXeonBotInc() {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                          newsletterJid: '120363302272656375@newsletter',
+                        newsletterName: 'HACKLINK',
                         serverMessageId: -1
                     }
                 }
