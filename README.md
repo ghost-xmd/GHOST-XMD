@@ -4,9 +4,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://qu.ax/Zqpxy.jpg" width="800"/>
+<p style="text-align:center;">
+  <img src="https://qu.ax/Zqpxy.jpg" width="800" />
 </p>
+
 ---
 
 ## ⭐ Fork the Repository
