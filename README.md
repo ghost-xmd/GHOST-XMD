@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://files.catbox.moe/cv6t5y.jpeg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
